@@ -1,2 +1,2 @@
-# programming-logic
-Just another simple repository to start studies on programming logic.
+Lógica de programação
+Diretório dedicado a estudos livres de 'lógica de programação'.
